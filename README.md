@@ -23,7 +23,7 @@
 
 <a href="https://linkedin.com/in/muhammedmustafa14" target="_blank"><img src="https://img.shields.io/badge/-Muhammed%20Mustafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://wa.me/01205885988" target="_blank"><img src="https://img.shields.io/badge/-Muhammed%20Mustafa-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="mailto:muuhamed14mustafa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Muhammed%20Mustafa-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:muhammedmostafa.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Muhammed%20Mustafa-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
