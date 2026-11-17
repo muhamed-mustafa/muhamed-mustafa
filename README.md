@@ -1,45 +1,32 @@
+# Muhammed Mustafa
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+**Backend Engineer** · Node.js · TypeScript · NestJS · Cairo, Egypt
 
-<h3 align="center">
-  Welcome to Muhammed Mustafa's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+Backend engineer building production Node.js systems since 2021, currently at AAIT.
+I build REST and GraphQL APIs, real-time features and event-driven microservices, with a focus on clear module boundaries, data consistency and predictable API contracts.
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+## Stack
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+| Area | Tools |
+| --- | --- |
+| Languages | TypeScript, JavaScript |
+| Frameworks | NestJS, Express |
+| Databases | PostgreSQL, MongoDB, Redis |
+| ORMs / ODMs | TypeORM, Mongoose, Prisma, Sequelize |
+| APIs | REST, GraphQL, Socket.IO, Swagger |
+| Messaging and jobs | NATS Streaming, Bull |
+| Infrastructure | Docker, Docker Compose, Kubernetes |
+| Testing | Jest, Vitest, Supertest |
 
-- 🏢 I'm a Software Engineer.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, TypeScript, and NodeJS, or anything related to web development.
+## Featured projects
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+- **[airbnb-clone-api](https://github.com/muhamed-mustafa/airbnb-clone-api)** — Layered NestJS/MongoDB rental-listing API with JWT refresh rotation, RBAC, optimistic concurrency, localized errors and pluggable S3/Cloudinary storage.
+- **[social-microservices](https://github.com/muhamed-mustafa/social-microservices)** — Event-driven social network and marketplace backend: eight TypeScript microservices on Kubernetes with NATS Streaming, MongoDB, Stripe and Bull.
+- **[redis-mastery-lab](https://github.com/muhamed-mustafa/redis-mastery-lab)** — NestJS lab implementing Redis cache-aside, stampede protection and token-owned distributed locks with renewal and Lua-guarded writes.
+- **[ecommerce-backend-nest](https://github.com/muhamed-mustafa/ecommerce-backend-nest)** — NestJS and PostgreSQL e-commerce API with JWT role-based auth, email verification, products, reviews, Swagger docs and end-to-end tests.
+- **[clinic](https://github.com/muhamed-mustafa/clinic)** — Clinic appointment microservices: role-based booking flows and SMS reminders scheduled through events and delayed jobs.
 
-### Connect with Me :
+## Contact
 
-<a href="https://linkedin.com/in/muhammedmustafa14" target="_blank"><img src="https://img.shields.io/badge/-Muhammed%20Mustafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.me/01205885988" target="_blank"><img src="https://img.shields.io/badge/-Muhammed%20Mustafa-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="mailto:muhammedmostafa.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Muhammed%20Mustafa-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
-
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;<br>
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
-![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=NestJs)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+- LinkedIn: [linkedin.com/in/muhammedmustafa14](https://www.linkedin.com/in/muhammedmustafa14/)
+- Email: [muhammedmostafa.dev@gmail.com](mailto:muhammedmostafa.dev@gmail.com)
