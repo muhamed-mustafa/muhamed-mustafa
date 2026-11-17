@@ -93,6 +93,7 @@
 | Project | What it is |
 | --- | --- |
 | **[airbnb-clone-api](https://github.com/muhamed-mustafa/airbnb-clone-api)** | Layered NestJS/MongoDB rental-listing API with JWT refresh rotation, RBAC, optimistic concurrency, localized errors and pluggable S3/Cloudinary storage. |
+| **[airbnb-clone-web](https://github.com/muhamed-mustafa/airbnb-clone-web)** | Arabic/English Next.js admin panel for the API above: a BFF keeps tokens in a sealed HttpOnly cookie, with end-to-end tests against the real backend. |
 | **[social-microservices](https://github.com/muhamed-mustafa/social-microservices)** | Event-driven social network and marketplace backend: eight TypeScript microservices on Kubernetes with NATS Streaming, MongoDB, Stripe and Bull. |
 | **[redis-mastery-lab](https://github.com/muhamed-mustafa/redis-mastery-lab)** | NestJS lab implementing Redis cache-aside, stampede protection and token-owned distributed locks with renewal and Lua-guarded writes. |
 | **[ecommerce-backend-nest](https://github.com/muhamed-mustafa/ecommerce-backend-nest)** | NestJS and PostgreSQL e-commerce API with JWT role-based auth, email verification, products, reviews, Swagger docs and end-to-end tests. |
