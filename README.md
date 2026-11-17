@@ -1,9 +1,9 @@
 # Muhammed Mustafa
 
-**Backend Engineer** · Node.js · TypeScript · NestJS · Cairo, Egypt
+[![Software Engineer · Node.js · TypeScript · NestJS · React](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS;React+%C2%B7+Next.js+%C2%B7+Tailwind+CSS;Microservices+%C2%B7+Event-driven+systems&font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=2F81F7&width=520&height=36)](https://github.com/muhamed-mustafa)
 
-Backend engineer building production Node.js systems since 2021, currently at AAIT.
-I build REST and GraphQL APIs, real-time features and event-driven microservices, with a focus on clear module boundaries, data consistency and predictable API contracts.
+Software engineer building production systems since 2021, currently at AAIT.
+My core is backend: REST and GraphQL APIs, real-time features and event-driven microservices, with a focus on clear module boundaries, data consistency and predictable API contracts. I also build front ends with React and Next.js.
 
 ## Stack
 
@@ -15,7 +15,7 @@ I build REST and GraphQL APIs, real-time features and event-driven microservices
 | ORMs / ODMs | TypeORM, Mongoose, Prisma, Sequelize |
 | APIs | REST, GraphQL, Socket.IO, Swagger |
 | Messaging and jobs | RabbitMQ, Kafka, NATS Streaming, Bull |
-| Frontend | React |
+| Frontend | React, Next.js, Tailwind CSS, Redux |
 | Infrastructure | Docker, Docker Compose, Kubernetes |
 | Testing | Jest, Vitest, Supertest |
 
