@@ -14,7 +14,8 @@ I build REST and GraphQL APIs, real-time features and event-driven microservices
 | Databases | PostgreSQL, MongoDB, Redis |
 | ORMs / ODMs | TypeORM, Mongoose, Prisma, Sequelize |
 | APIs | REST, GraphQL, Socket.IO, Swagger |
-| Messaging and jobs | NATS Streaming, Bull |
+| Messaging and jobs | RabbitMQ, Kafka, NATS Streaming, Bull |
+| Frontend | React |
 | Infrastructure | Docker, Docker Compose, Kubernetes |
 | Testing | Jest, Vitest, Supertest |
 
