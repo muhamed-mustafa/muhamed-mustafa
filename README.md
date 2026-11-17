@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1F6FEB,100:58A6FF" width="100%" alt="" />
+
 <h1 align="center">Muhammed Mustafa</h1>
 
 <p align="center">
@@ -95,3 +97,5 @@
 | **[redis-mastery-lab](https://github.com/muhamed-mustafa/redis-mastery-lab)** | NestJS lab implementing Redis cache-aside, stampede protection and token-owned distributed locks with renewal and Lua-guarded writes. |
 | **[ecommerce-backend-nest](https://github.com/muhamed-mustafa/ecommerce-backend-nest)** | NestJS and PostgreSQL e-commerce API with JWT role-based auth, email verification, products, reviews, Swagger docs and end-to-end tests. |
 | **[clinic](https://github.com/muhamed-mustafa/clinic)** | Clinic appointment microservices: role-based booking flows and SMS reminders scheduled through events and delayed jobs. |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:1F6FEB,100:58A6FF" width="100%" alt="" />
